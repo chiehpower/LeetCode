@@ -21,6 +21,7 @@ Output: True
 Input: "FlaG"
 Output: False
 
+Source from: LeetCode 
 """
 
 class Solution:
