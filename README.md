@@ -22,5 +22,6 @@ This repository is used for recording my LeetCode challenges.
 | Day2 | [Design HashSet](./August_LeetCoding_Challenge/day2.py) | ✅ | 2020.08.02 |
 | Day3 | [Valid Palindrome](./August_LeetCoding_Challenge/day3.py) | ✅ | 2020.08.03 |
 | Day4 | [Power of Four](./August_LeetCoding_Challenge/day4.py) | ✅ | 2020.08.04 |
-| Day5 | Add and Search Word - Data structure design | ✕ | 2020.08.05 |
-| Day6 | [Find All Duplicates in an Array]((./August_LeetCoding_Challenge/day6.py)) | ✅ | 2020.08.06 |
+| Day5 | Add and Search Word - Data structure design | Fail | 2020.08.05 |
+| Day6 | [Find All Duplicates in an Array](./August_LeetCoding_Challenge/day6.py) | ✅ | 2020.08.06 |
+| Day7 | Vertical Order Traversal of a Binary Tree | Fail | 2020.08.07 |
