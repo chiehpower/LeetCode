@@ -40,22 +40,15 @@ from functools import reduce
 class Solution:
     def calculate(self, s):
         print(f"The string is {s}")
-        str_len = len(s)
-        # assert 1 <= str_len <= 3*10^5, "Too long"
-
         s = s.replace(" ", "")
         s = s.split("+")
         new_s = []
-        ## Plus
+
         for i in s:
-            
-            ### start to handle -
             if "-" in i:
                 i = i.split("-")
                 
                 subtract = []
-                ### start to deal with * and /
-                ### 8-6/3*2-1
                 for j in i:
                     if "/" in j or "*" in j:
                         div_num = self.cal_mul_div(j)
@@ -68,7 +61,6 @@ class Solution:
                 new_s.append(int(sub_num))
             else:
                 subtract = []
-                ### start to deal with * and /
                 if "/" in i or "*" in i:
                     div_num = self.cal_mul_div(i)
                 else:
