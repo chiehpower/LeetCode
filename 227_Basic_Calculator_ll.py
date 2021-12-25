@@ -33,6 +33,8 @@ Source from: LeetCode
 Runtime: 80 ms, faster than 78.40% of Python3 online submissions for Basic Calculator II.
 Memory Usage: 17.2 MB, less than 13.79% of Python3 online submissions for Basic Calculator II.
 
+Reference:
+- Good solution: https://leetcode.com/problems/basic-calculator-ii/discuss/443590/python-stack
 """
 from functools import reduce
 
@@ -99,74 +101,20 @@ class Solution:
 if __name__ == "__main__":
     Solution = Solution()
 
-    ## Example 1 
-    s = "3+2*2"
-    result = Solution.calculate(s)
-    print("My ans is:", result)
+    s = {"3+2*2": 7,  
+         " 3/2 ": 1, 
+         " 3+5 / 2 ": 5, 
+         " 8-6/3-1+1*2+3*4/2+5+6-4/2 ": 22, 
+         "0": 0, 
+         "14/3*2": 8, 
+         "1+2*5/3+6/4*2": 6
+         }
+
+    for ss in s:
+        result = Solution.calculate(ss)
+        print(f"My ans is: {result}\n")
     
-    if int(result) != 7:
-        raise "Calculate wrong."
-    else:
-        print("Correct.")
-    print("\n---\n")
-
-    ## Example 2 
-    s = " 3/2 "
-    result = Solution.calculate(s)
-    print("My ans is:", result)
-
-    if int(result) != 1:
-        raise "Calculate wrong."
-    else:
-        print("Correct.")
-    print("\n---\n")
-    
-    ## Example 3
-    s = " 3+5 / 2 "
-    result = Solution.calculate(s)
-    print("My ans is:", result)
-
-    if int(result) != 5:
-        raise "Calculate wrong."
-    else:
-        print("Correct.")
-
-    ## Example 4
-    s = " 8-6/3-1+1*2+3*4/2+5+6-4/2 "
-    result = Solution.calculate(s)
-    print("My ans is:", result)
-
-    if int(result) != 22:
-        raise "Calculate wrong."
-    else:
-        print("Correct.")
-
-    ## Example 4
-    s = "0"
-    result = Solution.calculate(s)
-    print("My ans is:", result)
-
-    if int(result) != 0:
-        raise "Calculate wrong."
-    else:
-        print("Correct.")
-
-    ## Example 4
-    s = "14/3*2"
-    result = Solution.calculate(s)
-    print("My ans is:", result)
-
-    if int(result) != 8:
-        raise "Calculate wrong."
-    else:
-        print("Correct.")
-
-    ## Example 5
-    s = "1+2*5/3+6/4*2"
-    result = Solution.calculate(s)
-    print("My ans is:", result)
-
-    if int(result) != 6:
-        raise "Calculate wrong."
-    else:
-        print("Correct.")
+        if int(result) != s[ss]:
+            raise ">>> Calculate wrong."
+        else:
+            print(">>> Correct.\n")
