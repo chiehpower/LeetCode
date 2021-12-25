@@ -12,6 +12,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 2020.08.02 |
 |  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium |  |
 |  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium |  |
+| ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 |
 
 
 ## August Daily Challenges
