@@ -56,15 +56,14 @@ if __name__ == "__main__":
     Solution = Solution()
     
     nums = [-1, 0, 3, 5, 9, 12]
-    target = 13
+    target = 9
     
     print(f"Number is {nums}, and target {target}")
     result = Solution.search(nums, target)
     print(f"My ans is: {result}\n")
 
-
-    nums = [-1,0,3,5,9,12]
-    target = -2
+    nums = [-1, 0, 3, 5, 9, 12]
+    target = -1
     
     print(f"Number is {nums}, and target {target}")
     result = Solution.search(nums, target)
