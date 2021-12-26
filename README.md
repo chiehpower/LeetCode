@@ -14,6 +14,7 @@ This repository is used for recording my LeetCode challenges.
 |  | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium |  |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 |
+| ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 |
 
 
 ## August Daily Challenges
