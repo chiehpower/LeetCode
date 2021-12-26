@@ -16,6 +16,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 |
+| ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 |
 
 
 ## August Daily Challenges
