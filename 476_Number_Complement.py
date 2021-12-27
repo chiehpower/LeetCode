@@ -37,9 +37,11 @@ Source from: LeetCode
 
 
 # Results: 
+Runtime: 32 ms, faster than 55.58% of Python3 online submissions for Number Complement.
+Memory Usage: 14.3 MB, less than 41.72% of Python3 online submissions for Number Complement.
 
 Reference:
-- Good solution: 
+- Good solution: https://leetcode.com/problems/number-complement/discuss/96009/Simple-Python
 """
 
 

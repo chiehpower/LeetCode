@@ -25,9 +25,11 @@ Source from: LeetCode
 
 
 # Results: 
+Runtime: 224 ms, faster than 73.02% of Python3 online submissions for Squares of a Sorted Array.
+Memory Usage: 16.4 MB, less than 12.64% of Python3 online submissions for Squares of a Sorted Array.
 
 Reference:
-- Good solution: 
+- Good solution: https://leetcode.com/problems/squares-of-a-sorted-array/discuss/222079/Python-O(N)-10-lines-two-solutions-explained-beats-100
 """
 
 class Solution:
