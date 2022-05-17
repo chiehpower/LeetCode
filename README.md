@@ -1,5 +1,5 @@
 # LeetCode 
-[![](https://img.shields.io/badge/Language-Python3-blue)](./README.md) [![](https://img.shields.io/badge/Status-Updating-lightgrey)](./README.md) [![](https://img.shields.io/badge/Daily%20Challenge-In%20Progress-red)](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge) 
+[![](https://img.shields.io/badge/Language-Python3%20&%20Go-blue)](./README.md) [![](https://img.shields.io/badge/Status-Updating-lightgrey)](./README.md) [![](https://img.shields.io/badge/Daily%20Challenge-In%20Progress-red)](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge) 
 
 This repository is used for recording my LeetCode challenges.
 
@@ -13,6 +13,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | 2020.08.01 | Python |
 |  | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium |  |  |
 | ✅ | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 2022.05.16 | Go |
+| ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 2022.05.17 | Go |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 | Python |
