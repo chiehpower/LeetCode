@@ -53,11 +53,10 @@ import (
 // D             500
 // M             1000
 
-
-var add int = 0
-var next int = 0
-
 func romanToInt(s string) int {
+	var add int = 0
+	var next int = 0
+
 	roman_value := make(map[int]int)
 	roman_value[73] = 1
 	roman_value[86] = 5
