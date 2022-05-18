@@ -14,7 +14,7 @@ This repository is used for recording my LeetCode challenges.
 |  | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium |  |  |
 | ✅ | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 2022.05.16 | Go |
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 2022.05.17 | Go |
-| ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18 | Python |
+| ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18 | Python / Go |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 | Python |
