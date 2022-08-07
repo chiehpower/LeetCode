@@ -13,10 +13,35 @@ Source from: LeetCode
 """
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+
 class Solution:
     def addTwoNumbers(self, l1, l2):
-        
+        """
+        Reference: https://books.halfrost.com/leetcode/ChapterFour/0001~0099/0002.Add-Two-Numbers/ 
+        """
+        node = ListNode(0)
+        n1, n2, carry, current = 0, 0, 0, node
+
+        while l1 != None or l2 != None or carry != 0:
+            if l1 != None:
+                n1 = l1.val
+                l1 = l1.next
+            else:
+                n1 = 0
+
+            if l2 != None:
+                n2 = l2.val
+                l2 = l2.next
+            else:
+                n2 = 0
+
+            current.next = ListNode((n1 + n2 + carry) % 10)
+            current = current.next
+
+            carry = int((n1 + n2 + carry) / 10)
+        return node.next
