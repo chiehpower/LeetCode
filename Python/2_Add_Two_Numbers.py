@@ -10,6 +10,12 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 
 Source from: LeetCode 
+
+## Result
+Runtime: 128 ms, faster than 25.74% of Python3 online submissions for Add Two Numbers.
+Memory Usage: 13.8 MB, less than 99.35% of Python3 online submissions for Add Two Numbers.
+
+The idea was from here: https://books.halfrost.com/leetcode/ChapterFour/0001~0099/0002.Add-Two-Numbers/ 
 """
 
 # Definition for singly-linked list.
@@ -21,9 +27,6 @@ class ListNode:
 
 class Solution:
     def addTwoNumbers(self, l1, l2):
-        """
-        Reference: https://books.halfrost.com/leetcode/ChapterFour/0001~0099/0002.Add-Two-Numbers/ 
-        """
         node = ListNode(0)
         n1, n2, carry, current = 0, 0, 0, node
 
