@@ -44,20 +44,34 @@ import time
 #                 else:
 #                     return [i, j]
         
-class Solution:
-    """09/02/2022 21:39"""
+# class Solution:
+#     """09/02/2022 21:39"""
+#     def twoSum(self, nums, target):
+#         """
+#         Runtime: 792 ms, faster than 34.85% of Python3 online submissions for Two Sum.
+#         Memory Usage: 14.8 MB, less than 99.57% of Python3 online submissions for Two Sum.
+#         """
+#         for i in range(len(nums)):
+#             b = target - nums[i]
+#             remain = nums[i+1:]
+#             if b in remain:
+#                 return [i, remain.index(b)+i+1]
+
+class Solution(object):
+    """09/03/2022 13:32"""
     def twoSum(self, nums, target):
         """
-        Runtime: 792 ms, faster than 34.85% of Python3 online submissions for Two Sum.
-        Memory Usage: 14.8 MB, less than 99.57% of Python3 online submissions for Two Sum.
+        Runtime: 133 ms, faster than 40.45% of Python3 online submissions for Two Sum.
+        Memory Usage: 15.2 MB, less than 49.63% of Python3 online submissions for Two Sum.
         """
-        for i in range(len(nums)):
-            b = target - nums[i]
-            remain = nums[i+1:]
-            if b in remain:
-                return [i, remain.index(b)+i+1]
+        record = {}
+        for a in range(len(nums)):
+            b = target - nums[a]
+            if b in record:
+                return [record[b], a]
+            else:
+                record[nums[a]] = a 
 
-                
 start = time.time()
 Solution = Solution()
 
