@@ -43,39 +43,67 @@ Reference:
 # def isBadVersion(version):
 
 
-def isBadVersion(version):
-    bad = 2
+def isBadVersion(version, bad):
+    # bad = 2
     if version>=bad:
         return True
     else:
         return False
 
+# class Solution:
+#     """12/26/2021 22:50"""
+#     def firstBadVersion(self, n):
+#         """
+#         :type n: int
+#         :rtype: int
+#         """
+
+#         max_ = n
+#         min_ = 1
+#         if max_ == min_:
+#             return max_
+#         while min_ < max_:
+#             mid = int((max_ + min_) / 2)
+#             res = isBadVersion(mid)  # False (no problem)
+#             if res:
+#                 ## problem
+#                 if isBadVersion(mid-1) == False:
+#                     return mid
+#                 else:
+#                     max_ = mid
+#             else:
+#                 if isBadVersion(mid+1):
+#                     return mid+1
+#                 else:
+#                     min_ = mid+1
+
+
 class Solution:
-    def firstBadVersion(self, n):
+    def firstBadVersion(self, n, bad):       
         """
-        :type n: int
-        :rtype: int
+        Runtime: 44 ms, faster than 57.81% of Python3 online submissions for First Bad Version.
+        Memory Usage: 13.9 MB, less than 13.13% of Python3 online submissions for First Bad Version.
         """
-
+        if n == 1: return 1
         max_ = n
-        min_ = 1
-        if max_ == min_:
-            return max_
+        min_ = 1    
         while min_ < max_:
-            mid = int((max_ + min_) / 2)
-            res = isBadVersion(mid)  # False (no problem)
-            if res:
-                ## problem
-                if isBadVersion(mid-1) == False:
-                    return mid
-                else:
-                    max_ = mid
-            else:
-                if isBadVersion(mid+1):
-                    return mid+1
-                else:
-                    min_ = mid+1
+            ### Step : 
+            ### 1. Calculate middle value > check whether it is True of False.
+            ### 2. If True, then find the left way. 
+            ### 3. If False, then find the right way.
 
+            middle = int((max_ + min_) / 2)
+            res = isBadVersion(middle, bad)
+            if res:
+                if middle == 1: return 1
+                max_ = middle
+            else:
+                if isBadVersion(middle + 1, bad):
+                    ## later one is badversion
+                    return middle + 1
+                else:
+                    min_ = middle
 
 
 if __name__ == "__main__":
@@ -85,19 +113,26 @@ if __name__ == "__main__":
     bad = 4
 
     print(f"Number is {n}, and bad {bad}")
-    result = Solution.firstBadVersion(n)
+    result = Solution.firstBadVersion(n, bad)
     print(f"My ans is: {result}\n")
 
     n = 1
     bad = 1
 
     print(f"Number is {n}, and bad {bad}")
-    result = Solution.firstBadVersion(n)
+    result = Solution.firstBadVersion(n, bad)
     print(f"My ans is: {result}\n")
 
     n = 2
     bad = 2
 
     print(f"Number is {n}, and bad {bad}")
-    result = Solution.firstBadVersion(n)
+    result = Solution.firstBadVersion(n, bad)
+    print(f"My ans is: {result}\n")
+
+    n = 2
+    bad = 1
+
+    print(f"Number is {n}, and bad {bad}")
+    result = Solution.firstBadVersion(n, bad)
     print(f"My ans is: {result}\n")
