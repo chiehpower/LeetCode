@@ -7,7 +7,7 @@ This repository is used for recording my LeetCode challenges.
 
 | **Accepted** | **Title** | **Difficulty** | **Date** | Language |
 | -------- | --------- | --------- | --------- | --------- |
-| ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum) | Easy | 2020.07.31 | Python |
+| ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum) | Easy | 2020.07.31/2022.09.02 | Python |
 | 🆙 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | 2022.08.07 | Python |
 | ✅ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 2020.08.02 | Python |
 | ✅ | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | 2020.08.01 | Python |
@@ -18,6 +18,8 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18 | Python / Go |
 |  | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium |  |  |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
+| ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 | Python |
+| ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30 | Python |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 | Python |
