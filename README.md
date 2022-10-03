@@ -17,6 +17,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 2022.05.17 | Go |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18 | Python / Go |
 |  | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium |  |  |
+| ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30 | Python |
