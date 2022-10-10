@@ -22,6 +22,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30 | Python |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 | Python |
+| ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2022.10.10 | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 | Python |
