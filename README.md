@@ -19,6 +19,7 @@ This repository is used for recording my LeetCode challenges.
 |  | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium |  |  |
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
+| ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | 2022.10.19 | Python |
 | ✅ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 2022.10.12 | Python |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 | Python |
 | ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19 | Python |
