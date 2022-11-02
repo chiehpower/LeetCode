@@ -24,6 +24,10 @@ import time
 
 class Solution:
     def lengthOfLongestSubstring(self, s):
+        """
+        Runtime: 68 ms
+        Memory Usage: 14 MB
+        """
         strtolist = list(s)
         res1 = []
         res2 = []
