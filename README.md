@@ -17,6 +17,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 2022.05.17 | Go |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18 | Python / Go |
 |  | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium |  |  |
+| ✅ | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 2022.11.09 | Python |
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
 | ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | 2022.10.19 | Python |
