@@ -72,6 +72,22 @@ class Solution(object):
             else:
                 record[nums[a]] = a 
 
+class Solution(object):
+    """24/03/2023 23:58"""
+    def twoSum(self, nums, target):
+        """
+        Runtime: 64 ms, faster than 69.98% of Python3 online submissions for Two Sum.
+        Memory Usage: 15.2 MB, less than 16.37% of Python3 online submissions for Two Sum.
+        """
+        seen = {}
+        for i in range(len(nums)):
+            res = target - nums[i] 
+            if res not in seen:
+                seen[nums[i]] = i
+            else:
+                return [seen[res], i]
+
+
 start = time.time()
 Solution = Solution()
 
