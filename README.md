@@ -32,6 +32,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2022.10.10 | Python |
 | ✅ | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 2022.11.02 | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 | Python |
+| ✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01 | Python |
 | ✅ | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 2022.11.10 | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 | Python |
