@@ -35,6 +35,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01 | Python |
 | ✅ | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 2022.11.10 | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 | Python |
+| ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 | Python |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 | Python |
 | ✅ | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 2021.12.27 | Python |
