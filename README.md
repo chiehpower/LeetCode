@@ -39,6 +39,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 | Python |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 | Python |
+| ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 | Python |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 | Python |
 | ✅ | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 2021.12.27 | Python |
