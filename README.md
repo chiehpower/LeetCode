@@ -49,6 +49,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 2023.08.15 | Python |
 | ✅ | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 2023.08.20 | Python |
 | ✅ | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 2023.06.12 | Python |
+| ✅ | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | 2023.08.22 | Python |
 
 
 ## August Daily Challenges
