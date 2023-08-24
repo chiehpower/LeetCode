@@ -46,3 +46,20 @@ class Solution:
             prev = current
             
         return current
+
+    def reverseList_20230824(self, head):
+        """
+        Runtime: 23 ms, faster than 41.73% of Python3 online submissions for Reverse Linked List.
+        Memory Usage: 15.27 MB, less than 57.38% of Python3 online submissions for Reverse Linked List.
+        """
+        
+        prev = None
+        current = head
+
+        while current is not None:
+            next_node = current.next
+            current.next = prev 
+            prev = current
+            current = next_node
+        return prev
+        
