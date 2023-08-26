@@ -43,6 +43,8 @@ class Solution(object):
         """
         :type s: str
         :rtype: str
+
+        Reference: https://leetcode.com/problems/removing-stars-from-a-string/solutions/3402366/python3-c-java-easy-and-understand-stack-simulation/?envType=study-plan-v2&envId=leetcode-75
         """
         ans = []
 
