@@ -53,7 +53,8 @@ This repository is used for recording my LeetCode challenges.
 | ✅            | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy           | 2023.08.14            | Python      |
 | ✅ | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 2023.08.22 | Python |
 | ✅ | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 2023.08.15 | Python |
-| ✅ | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | 2023.09.02 | Python |
+| ❌ | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | 2023.09.02 | Python |
+| ✅ | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | 2023.09.01 | Python |
 | ✅ | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 2023.08.20 | Python |
 | ✅ | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 2023.06.12 | Python |
 | ✅ | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | 2023.08.22 | Python |
