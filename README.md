@@ -44,6 +44,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 | Python |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 | Python |
 | ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 | Python |
+| ⛔ | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 2023.09.05 | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 | Python |
 | ✅ | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | 2023.08.22 | Python |
 | ✅ | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | 2023.08.27 | Python |
