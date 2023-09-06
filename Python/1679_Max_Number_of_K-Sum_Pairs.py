@@ -32,6 +32,7 @@ Constraints:
 1 <= k <= 109
 """
 class Solution(object):
+    """
     def maxOperations(self, nums, k):
         """
         :type nums: List[int]
@@ -56,5 +57,31 @@ class Solution(object):
                 count += 1
         
         return count
+    """
+    def maxOperations(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        e = {}
+        for i in nums:
+            if i not in e:
+                e[i] = 0
 
+        nums = sorted(nums)
+        count = 0
 
+        for i in nums:
+            if i >= k:
+                break
+            remain = k -i
+            if remain not in e:
+                pass
+            elif e[remain] == 0:
+                e[i] += 1
+            else:
+                e[remain] -= 1
+                count += 1
+        
+        return count
