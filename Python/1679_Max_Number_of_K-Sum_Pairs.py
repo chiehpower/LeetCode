@@ -37,6 +37,8 @@ class Solution(object):
         :type nums: List[int]
         :type k: int
         :rtype: int
+
+        Time Limit Exceeded
         """
         
         nums = sorted(nums)
