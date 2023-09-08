@@ -49,7 +49,40 @@ class Solution:
         for i in range(total):
             res[i] = res_left[i] * res_right[i]
         return res
+
+    def productExceptSelf_20230908(self, nums: List[int]) -> List[int]:
+        """
+        Runtime: 218 ms, faster than 35.81% of Python3 online submissions for Product of Array Except Self.
+        Memory Usage: 25.60 MB, less than 14.81% of Python3 online submissions for Product of Array Except Self.
+        Reference: https://www.youtube.com/watch?v=bNvIQI2wAjk
+        """
+        length = len(nums)
+
+        prefix = [1] * length
+        suffix = [1] * length
+        
+        prefix_value = 1
+        for i in range(length):
+            prefix_value *= nums[i] 
+            prefix[i] = prefix_value
             
+        suffix_value = 1
+        for i in range(length-1, -1, -1):
+            suffix_value *= nums[i]
+            suffix[i] = suffix_value
+        
+        res = []
+        for i in range(length):
+            if i == 0:
+                res.append(suffix[1])
+            elif i == (length -1):
+                res.append(prefix[i-1])
+            else:
+                value = prefix[i-1] * suffix[i+1]
+                res.append(value)
+
+        return res
+        
             
 if __name__ == '__main__':
     Solution = Solution()

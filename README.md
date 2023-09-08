@@ -32,7 +32,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 | Python |
 | ✅ | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | 2022.10.20 | Python |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 | Python |
-| ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2022.10.10 | Python |
+| ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2022.10.10/2023.09.08 | Python |
 | ✅ | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 2022.11.02 | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 | Python |
 | ✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01 | Python |
