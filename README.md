@@ -38,6 +38,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 | Python |
 | ✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01 | Python |
 | ⛔ | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | 2023.09.07 | Python |
+| ⛔ | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | 2023.09.09 | Python |
 | ✅ | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 2022.11.10 | Python |
 | ✅ | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 2023.08.16 | Python |
 | ✅ | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 2023.08.29 | Python |
