@@ -28,6 +28,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | 2022.11.04 | Python |
 | ✅ | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 2023.08.17 | Python |
 | ⛔ | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | 2023.09.11 | Python |
+| ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 | Python |
 | ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19 | Python |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 | Python |
