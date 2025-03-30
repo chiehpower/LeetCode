@@ -47,23 +47,33 @@ class Solution:
                 continue
             return [left_pointer+1, left_pointer+1 + right_pointer+1]
 
+    def twoSum_two_pointers(self, numbers: List[int], target: int) -> List[int]:
+        left_pointer, right_pointer = 0, len(numbers) - 1
+        while left_pointer < right_pointer:
+            current_value = numbers[left_pointer] + numbers[right_pointer]
+            if current_value == target: 
+                return [left_pointer+1, right_pointer+1]
+            elif current_value < target:
+                left_pointer += 1
+            else:
+                right_pointer -= 1
 
 new_numbers = [2,7,11,15]
 target = 9
 Solution = Solution()
-print(Solution.twoSum(new_numbers, target)) # Answer: [1, 2]
+print(Solution.twoSum_two_pointers(new_numbers, target)) # Answer: [1, 2]
 
 new_numbers = [2,3,4]
 target = 6
 Solution = Solution()
-print(Solution.twoSum(new_numbers, target)) # Answer: [1, 3] 
+print(Solution.twoSum_two_pointers(new_numbers, target)) # Answer: [1, 3] 
 
 new_numbers = [-1,0]
 target = -1
 Solution = Solution()
-print(Solution.twoSum(new_numbers, target)) # Answer: [1, 2]
+print(Solution.twoSum_two_pointers(new_numbers, target)) # Answer: [1, 2]
 
 new_numbers = [5,25,75]
 target = 100
 Solution = Solution()
-print(Solution.twoSum(new_numbers, target)) # Answer: [2, 3]
+print(Solution.twoSum_two_pointers(new_numbers, target)) # Answer: [2, 3]
