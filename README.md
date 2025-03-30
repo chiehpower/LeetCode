@@ -7,7 +7,7 @@ This repository is used for recording my LeetCode challenges.
 
 | **Accepted** | **Title** | **Difficulty** | **Date** | Language |
 | -------- | --------- | --------- | --------- | --------- |
-| ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum) | Easy | 2020.07.31/2022.09.02 | Python |
+| ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum) | Easy | 2020.07.31/2022.09.02/2025.03.30 | Python |
 | 🆙 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | 2022.08.07 | Python |
 | ✅ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 2020.08.02 | Python |
 | ✅ | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | 2020.08.01 | Python |

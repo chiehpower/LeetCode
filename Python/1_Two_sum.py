@@ -87,6 +87,26 @@ class Solution(object):
             else:
                 return [seen[res], i]
 
+    def twoSum_2025030(self, nums, target):
+        """
+        Runtime: 297 ms, faster than 33.79% of Python3 online submissions for Two Sum.
+        Memory Usage: 18.10 MB, less than 99.66% of Python3 online submissions for Two Sum.
+        """
+        total = len(nums)
+        if total == 2:
+            return [0, 1]
+
+        first_order = 0
+        for i in nums:
+            remain = target - i
+            if remain not in nums[first_order + 1:]:
+                first_order += 1
+                continue
+            else:
+                for j in range(first_order + 1, total):
+                    if remain == nums[j]:
+                        return [first_order, j]
+                first_order += 1
 
 start = time.time()
 Solution = Solution()
