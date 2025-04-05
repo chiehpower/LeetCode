@@ -7,7 +7,7 @@ This repository is used for recording my LeetCode challenges.
 
 | **Accepted** | **Title** | **Difficulty** | **Date** | Language |
 | -------- | --------- | --------- | --------- | --------- |
-| ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum) | Easy | 2020.07.31/2022.09.02/2025.03.30 | Python |
+| ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum) | Easy | 2020.07.31/2022.09.02/2025.03.30/2025.04.05 | Python |
 | 🆙 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | 2022.08.07 | Python |
 | ✅ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 2020.08.02 | Python |
 | ✅ | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | 2020.08.01 | Python |
@@ -35,6 +35,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | 2023.09.11 | Python |
 | ✅ | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | 2025.03.29 | Python |
 | ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 | Python |
+| ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 | Python |
 | ✅ | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | 2025.04.04 | Python |
 | ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19 | Python |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 | Python |

@@ -78,6 +78,8 @@ class Solution(object):
         """
         Runtime: 64 ms, faster than 69.98% of Python3 online submissions for Two Sum.
         Memory Usage: 15.2 MB, less than 16.37% of Python3 online submissions for Two Sum.
+
+        記錄"補數"，如果這個補數沒出現，就記錄當下的數值，未來當下的這個數值nums[i]可能會成為別人的補數。
         """
         seen = {}
         for i in range(len(nums)):
@@ -87,7 +89,7 @@ class Solution(object):
             else:
                 return [seen[res], i]
 
-    def twoSum_2025030(self, nums, target):
+    def twoSum_20250330(self, nums, target):
         """
         Runtime: 297 ms, faster than 33.79% of Python3 online submissions for Two Sum.
         Memory Usage: 18.10 MB, less than 99.66% of Python3 online submissions for Two Sum.
