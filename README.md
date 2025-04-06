@@ -17,13 +17,16 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 2022.05.17 | Go |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18 | Python / Go |
 |  | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium |  |  |
+| ✅ | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 2025.04.05 | Python |
 | ✅ | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 2022.11.09 | Python |
+| ✅ | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 2025.04.05 | Python |
 | ✅ | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | 2023.09.21 | Python |
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2025.04.05 | Python |
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
 | ✅ | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | 2025.03.31 | Python |
 | ✅ | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy | 2023.03.27 | Python |
+| ✅ | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | 2025.04.05/2025.04.06 | Python |
 | ✅ | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | 2025.03.26 | Python |
 | ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | 2022.10.19 | Python |
 | ⛔ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 2022.10.12/2023.08.28 | Python |
@@ -38,6 +41,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 | Python |
 | ✅ | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | 2025.04.04 | Python |
 | ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19 | Python |
+| ⛔ | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 2025.04.06 | Python |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 | Python |
 | ✅ | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | 2022.10.20 | Python |
