@@ -9,7 +9,7 @@ This repository is used for recording my LeetCode challenges.
 | -------- | --------- | --------- | --------- | --------- |
 | ✅ | [1. Two Sum](https://leetcode.com/problems/two-sum) | Easy | 2020.07.31/2022.09.02/2025.03.30/2025.04.05 | Python |
 | 🆙 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | 2022.08.07 | Python |
-| ✅ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 2020.08.02 | Python |
+| ✅⛔ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 2020.08.02/2025.04.07 | Python |
 | ✅ | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | 2020.08.01 | Python |
 |  | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium |  |  |
 | ✅ | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 2022.05.16 | Go |
@@ -41,7 +41,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 | Python |
 | ✅ | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | 2025.04.04 | Python |
 | ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19 | Python |
-| ⛔ | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 2025.04.06 | Python |
+| ⛔ | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 2025.04.06/2025.04.07 | Python |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 | Python |
 | ✅ | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | 2022.10.20 | Python |

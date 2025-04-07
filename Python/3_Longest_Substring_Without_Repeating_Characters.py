@@ -48,6 +48,29 @@ class Solution:
                     res1.append(i)
         return len(res2)
 
+    def lengthOfLongestSubstring_20250407(self, s: str) -> int:
+        """
+        Runtime: 19 ms, faster than 56.64% of Python3 online submissions for Summary Ranges.
+        Memory Usage: 17.96 MB, less than 34.36% of Python3 online submissions for Summary Ranges.
+        """
+        if len(s) == 0:
+            return 0
+        if len(s) == 1:
+            return 1
+
+        start = 0
+        longest_len = 0
+        seen = set()
+        for char in range(len(s)):
+            while s[char] in seen:
+               seen.remove(s[start])
+               start += 1
+
+            seen.add(s[char])
+            longest_len = max(longest_len, char - start + 1)
+
+        return longest_len
+                
 
 
 Solution = Solution()  

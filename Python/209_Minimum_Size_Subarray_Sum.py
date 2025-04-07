@@ -36,7 +36,7 @@ class Solution:
         不過當start增加的時候，total也要減去nums[start]的值
         同時也要更新min_len的值
         """
-        total, start, end = 0, 0, 0
+        total, start = 0, 0
         min_len = float('inf')
 
         for end in range(len(nums)):
