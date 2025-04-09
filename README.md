@@ -61,8 +61,9 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 | Python |
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 | Python |
+| ❌ | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 2025.04.09 | Python |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 | Python |
-| ⛔ | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 2025.04.08 | Python |
+| ✅ | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 2025.04.08/2025.04.09 | Python |
 | ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 | Python |
 | ⛔ | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 2023.09.05 | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 | Python |
