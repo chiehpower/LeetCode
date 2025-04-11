@@ -21,6 +21,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 2022.11.09 | Python |
 | ✅ | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 2025.04.05 | Python |
 | ✅ | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | 2023.09.21 | Python |
+| ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11 | Python |
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2025.04.05 | Python |
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
