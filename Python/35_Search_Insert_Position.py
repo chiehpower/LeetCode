@@ -38,9 +38,53 @@ Reference:
 """
 
 class Solution:
-    def searchInsert(self, nums, target):
-        pass
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        """
+        Runtime: 0 ms, faster than 100.00% of Python3 online submissions for Summary Ranges.
+        Memory Usage: 18.50 MB, less than 44.77% of Python3 online submissions for Summary Ranges.
+        """
+        total = len(nums)
+        for i in range(total):
+            if target >  nums[i]:
+                if i != (total -1):
+                    if nums[i+1] < target:
+                        continue
+                    else:
+                        return i + 1
+                else:
+                    return total
+            else:
+                return i
 
+    def searchInsert_1(self, nums: List[int], target: int) -> int:
+        left, right = 0, len(nums) -1
+        
+        while left <= right:
+            mid = (left+right) // 2
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left += 1
+                mid += 1
+            else:
+                right -= 1
+        return mid
+
+    def searchInsert_2(self, nums: List[int], target: int) -> int:
+        left, right = 0, len(nums) -1
+        
+        while left <= right:
+            mid = (left + right)//2
+
+            if nums[mid] == target: 
+                return mid
+            
+            elif nums[mid] < target: 
+                left = mid +1
+            else:
+                right = mid -1
+
+        return left
 
 if __name__ == "__main__":
     
