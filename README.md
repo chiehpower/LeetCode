@@ -26,7 +26,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 | Python |
 | ✅ | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | 2025.03.31 | Python |
-| ❌ | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | 2025.04.12 | Python |
+| ⛔ | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | 2025.04.12/2025.04.13 | Python |
 | ✅ | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy | 2023.03.27 | Python |
 | ✅ | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | 2025.04.05/2025.04.06 | Python |
 | ✅ | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | 2025.03.26 | Python |
@@ -46,6 +46,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 2025.04.06/2025.04.07 | Python |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 | Python |
+| ⛔ | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 2025.04.13 | Python |
 | ✅ | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | 2022.10.20 | Python |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 | Python |
 | ✅ | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | 2025.04.02 | Python |
