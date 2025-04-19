@@ -25,7 +25,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14 |  | Python |
 | ⛔ | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | 2025.04.16/2025.04.16 | Matrix | Python |
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2025.04.05 |  | Python |
-| ❌ | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | 2025.04.18 | Math |  |
+| ⛔ | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | 2025.04.18/2025.04.19 | Math |  |
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 |  | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 |  | Python |
 | ✅ | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | 2025.03.31 |  | Python |
