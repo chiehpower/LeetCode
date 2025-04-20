@@ -29,6 +29,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 |  | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 |  | Python |
 | ✅ | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | 2025.03.31 |  | Python |
+| ✅ | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | 2025.04.20 | Math |  |
 | ✅ | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | 2025.04.12/2025.04.13/2025.04.14 |  | Python |
 | ✅ | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | 2025.04.17 | Math |  |
 | ✅ | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy | 2023.03.27 |  | Python |
