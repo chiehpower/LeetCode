@@ -39,6 +39,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 2022.10.12/2023.08.28 |  | Python |
 | ❌ | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 2025.03.31/2025.04.15 |  | Python |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 |  | Python |
+| ⛔ | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | 2025.04.21 | Array / String |  |
 | ✅ | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | 2023.08.30 |  | Python |
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | 2022.11.04 |  | Python |
 | ✅ | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 2023.08.17 |  | Python |
