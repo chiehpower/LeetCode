@@ -43,6 +43,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | 2023.08.30 |  | Python |
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | 2022.11.04 |  | Python |
 | ✅ | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 2023.08.17 |  | Python |
+| ✅ | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | 2025.04.23 | Stack |  |
 | ⛔ | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | 2023.09.11 |  | Python |
 | ✅ | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | 2025.03.29 |  | Python |
 | ✅ | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 2025.04.20 | Array / String |  |
