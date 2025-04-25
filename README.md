@@ -36,6 +36,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | 2025.04.05/2025.04.06 |  | Python |
 | ✅ | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | 2025.03.26 |  | Python |
 | ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | 2022.10.19 |  | Python |
+| ⛔ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | 2025.04.25 | Binary Tree General |  |
 | ⛔ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 2022.10.12/2023.08.28 |  | Python |
 | ❌ | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 2025.03.31/2025.04.15 |  | Python |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 |  | Python |
