@@ -27,6 +27,7 @@ class Solution:
         """
         Runtime: 0 ms, faster than 100.00% of Python3 online submissions for Summary Ranges.
         Memory Usage: 17.82 MB, less than 55.58% of Python3 online submissions for Summary Ranges.
+        [Again]
         """
         if not root:
             return True
