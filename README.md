@@ -25,32 +25,32 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14 |  | Python |
 | ⛔ | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | 2025.04.16/2025.04.16 | Matrix | Python |
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2025.04.05 |  | Python |
-| ⛔ | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | 2025.04.18/2025.04.19 | Math |  |
+| ⛔ | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | 2025.04.18/2025.04.19 | Math | Python |
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03 |  | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 |  | Python |
-| ✅ | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | 2025.04.26 | Intervals |  |
+| ✅ | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | 2025.04.26 | Intervals | Python |
 | ✅ | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | 2025.03.31 |  | Python |
-| ✅ | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | 2025.04.20 | Math |  |
+| ✅ | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | 2025.04.20 | Math | Python |
 | ✅ | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | 2025.04.12/2025.04.13/2025.04.14 |  | Python |
-| ✅ | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | 2025.04.17 | Math |  |
+| ✅ | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | 2025.04.17 | Math | Python |
 | ✅ | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy | 2023.03.27 |  | Python |
 | ✅ | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | 2025.04.05/2025.04.06 |  | Python |
 | ✅ | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | 2025.03.26 |  | Python |
 | ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | 2022.10.19 |  | Python |
-| ⛔ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | 2025.04.25 | Binary Tree General |  |
+| ⛔ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | 2025.04.25 | Binary Tree General | Python |
 | ⛔ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 2022.10.12/2023.08.28 |  | Python |
 | ❌ | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 2025.03.31/2025.04.15 |  | Python |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 |  | Python |
-| ⛔ | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | 2025.04.21 | Array / String |  |
+| ⛔ | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | 2025.04.21 | Array / String | Python |
 | ✅ | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | 2023.08.30 |  | Python |
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | 2022.11.04 |  | Python |
-| ✅ | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 2025.04.24 | Stack |  |
+| ✅ | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 2025.04.24 | Stack | Python |
 | ✅ | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 2023.08.17 |  | Python |
-| ✅ | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | 2025.04.23 | Stack |  |
+| ✅ | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | 2025.04.23 | Stack | Python |
 | ⛔ | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | 2023.09.11 |  | Python |
 | ✅ | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | 2025.03.29 |  | Python |
-| ✅ | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 2025.04.20 | Array / String |  |
-| ✅ | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | 2025.04.28 | Bit Manipulation | |
+| ✅ | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 2025.04.20 | Array / String | Python |
+| ✅ | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | 2025.04.28 | Bit Manipulation | Python |
 | ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 |  | Python |
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | 2025.04.04 |  | Python |
@@ -59,12 +59,13 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 |  | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 |  | Python |
 | ⛔ | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 2025.04.13 |  | Python |
-| ❌ | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Easy | 2025.04.22 | Binary Tree General |  |
+| ❌ | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Easy | 2025.04.22 | Binary Tree General | Python |
 | ✅ | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | 2022.10.20 |  | Python |
 | ✅ | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | 2021.12.25 |  | Python |
 | ✅ | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | 2025.04.02 |  | Python |
 | ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2022.10.10/2023.09.08 |  | Python |
 | ✅ | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 2022.11.02 |  | Python |
+| 🟰 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | 2025.04.29 | Array / String | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 |  | Python |
 | ✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01 |  | Python |
 | ✅ | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | 2025.04.04 |  | Python |
@@ -76,7 +77,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | 2025.04.03 |  | Python |
 | ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 |  | Python |
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 |  | Python |
-| ✅ | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | 2025.04.27 | Intervals |  |
+| ✅ | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | 2025.04.27 | Intervals | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 |  | Python |
 | ⛔ | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 2025.04.09/2025.04.10 |  | Python |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 |  | Python |
