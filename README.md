@@ -22,7 +22,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | 2023.09.21 |  | Python |
 | ✅ | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2025.04.14 |  | Python |
-| ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14 |  | Python |
+| ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14/2025.05.01 |  | Python |
 | ⛔ | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | 2025.04.16/2025.04.16 | Matrix | Python |
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2025.04.05 |  | Python |
 | ⛔ | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | 2025.04.18/2025.04.19 | Math | Python |
@@ -77,6 +77,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 2023.08.29 |  | Python |
 | ✅ | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | 2025.04.03 |  | Python |
 | ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 |  | Python |
+| ⛔ | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | 2025.05.01 | |  |
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 |  | Python |
 | ✅ | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | 2025.04.27 | Intervals | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 |  | Python |
