@@ -90,6 +90,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | 2023.08.22 |  | Python |
 | ✅ | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | 2023.08.27 |  | Python |
 | ⛔ | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 2023.09.04 |  | Python |
+| ✅⛔ | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | 2025.05.02 | |  |
 | ⛔ | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 2023.08.23 |  | Python |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 |  | Python |
 | ✅ | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 2021.12.27 |  | Python |
