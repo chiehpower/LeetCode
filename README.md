@@ -22,7 +22,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | 2023.09.21 |  | Python |
 | ✅ | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2025.04.14 |  | Python |
-| ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14 |  | Python |
+| ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14/2025.05.01 |  | Python |
 | ⛔ | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | 2025.04.16/2025.04.16 | Matrix | Python |
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2025.04.05 |  | Python |
 | ⛔ | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | 2025.04.18/2025.04.19 | Math | Python |
@@ -50,6 +50,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | 2023.09.11 |  | Python |
 | ✅ | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | 2025.03.29 |  | Python |
 | ✅ | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 2025.04.20 | Array / String | Python |
+| ✅ | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | 2025.04.30 | Math / String | Python |
 | ✅ | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | 2025.04.28 | Bit Manipulation | Python |
 | ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 |  | Python |
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 |  | Python |
@@ -76,6 +77,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 2023.08.29 |  | Python |
 | ✅ | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | 2025.04.03 |  | Python |
 | ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 |  | Python |
+| ⛔ | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | 2025.05.01 | |  |
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 |  | Python |
 | ✅ | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | 2025.04.27 | Intervals | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 |  | Python |
@@ -88,6 +90,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | 2023.08.22 |  | Python |
 | ✅ | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | 2023.08.27 |  | Python |
 | ⛔ | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 2023.09.04 |  | Python |
+| ✅⛔ | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | 2025.05.02 | |  |
 | ⛔ | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 2023.08.23 |  | Python |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 |  | Python |
 | ✅ | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 2021.12.27 |  | Python |
@@ -103,6 +106,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 2023.08.20 |  | Python |
 | ✅ | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 2023.06.12 |  | Python |
 | ✅ | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | 2023.08.22 |  | Python |
+| ⛔ | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | 2025.05.03 | |  |
 | ✅ | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | 2023.09.10 |  | Python |
 | ⛔ | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | 2023.08.26 |  | Python |
 
