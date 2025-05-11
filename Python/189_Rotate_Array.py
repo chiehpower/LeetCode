@@ -45,6 +45,28 @@ class Solution:
         return res + nums[index:] + nums[:index] 
 
 
+    def rotate_inplace(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        [Again]
+        """
+        total = len(nums)
+        k = k % total
+
+        def reverse(start, end):
+            while start < end:
+                nums[end], nums[start] = nums[start], nums[end]
+                start += 1
+                end -= 1
+
+        reverse(0, total - 1)
+        reverse(0, k - 1)
+        reverse(k, total - 1)
+
+
+
+
+
 if __name__ == "__main__":
 
     Solution = Solution()
