@@ -42,6 +42,7 @@ This repository is used for recording my LeetCode challenges.
 | ❌ | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 2025.03.31/2025.04.15 |  | Python |
 | ⛔ | [112. Path Sum](https://leetcode.com/problems/path-sum/) | Easy | 2025.05.08 | Binary Tree General | Python |
 | ✅ | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2022.09.30 |  | Python |
+| ✅ | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 2025.05.12 | Array / String | Python |
 | ✅ | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 2025.05.09 | Hashmap | Python |
 | ⛔ | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | 2025.04.21 | Array / String | Python |
 | ✅ | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | 2023.08.30 |  | Python |
