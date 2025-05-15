@@ -59,6 +59,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔✅ | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | 2025.05.11 | Array / String | Python |
 | ✅ | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | 2025.04.28 | Bit Manipulation | Python |
 | ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 |  | Python |
+| ⛔✅ | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | 2025.05.15 | Graph General | Python |
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | 2025.04.04 |  | Python |
 | ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19 |  | Python |
