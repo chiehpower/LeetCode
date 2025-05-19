@@ -42,6 +42,30 @@ class Solution:
             fir += common[0][i]
         return fir
 
+    def longestCommonPrefix_2loops(self, strs: List[str]) -> str:
+        """
+        Runtime: 0 ms, faster than 100.00% of Python3 online submissions for Spiral Matrix.
+        Memory Usage: 18.04 MB, less than 8.03% of Python3 online submissions for Spiral Matrix.
+        """
+        min_value = len(strs[0])
+        for i in strs:
+            if len(i) < min_value:
+                min_value = len(i)
+        
+        prefix = ""
+        stop = False
+        for j in range(min_value):
+            pre = strs[0][j]
+            for k in strs:
+                if pre != k[j]:
+
+                    stop = True
+                    break
+            if stop:
+                break
+            prefix += pre
+        
+        return prefix
 
 if __name__ == "__main__":
     Solution = Solution()
