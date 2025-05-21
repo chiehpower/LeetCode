@@ -21,7 +21,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅⛔ | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 2022.11.09/2025.05.04-07 | Linked List | Python |
 | ✅ | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | 2023.09.21 |  | Python |
-| ✅ | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2025.04.14 |  | Python |
+| ✅ | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2025.04.14/2025.05.21 |  | Python |
 | ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14/2025.05.01 |  | Python |
 | ⛔ | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | 2025.04.16/2025.04.16 | Matrix | Python |
 | ✅⛔ | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | 2025.05.14 | Array / String | Python |

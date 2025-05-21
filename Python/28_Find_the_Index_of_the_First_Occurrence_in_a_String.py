@@ -31,3 +31,16 @@ class Solution:
         return -1
 
     def bestSolutionforPython(self, haystack: str, needle: str) -> int:
+        return haystack.find(needle)
+
+    def strStr2(self, haystack: str, needle: str) -> int:
+        """
+        Runtime: 1 ms, faster than 12.48% of Python3 online submissions for Spiral Matrix.
+        Memory Usage: 17.80 MB, less than 32.46% of Python3 online submissions for Spiral Matrix.
+        """
+        total = len(haystack)
+        total_n = len(needle)
+        for i in range(total - total_n + 1):
+            if haystack[i: i + total_n] == needle:
+                return i
+        return -1
