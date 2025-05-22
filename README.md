@@ -22,6 +22,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | 2023.09.21 |  | Python |
 | ✅ | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2025.04.14/2025.05.21 |  | Python |
+| ✅⛔ | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2025/05/22 | | Python |
 | ✅ | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 2025.04.11/2025.04.14/2025.05.01 |  | Python |
 | ⛔ | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | 2025.04.16/2025.04.16 | Matrix | Python |
 | ✅⛔ | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | 2025.05.14 | Array / String | Python |
