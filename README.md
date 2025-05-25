@@ -50,6 +50,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | 2025.04.21 | Array / String | Python |
 | ✅ | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | 2023.08.30 |  | Python |
 | ✅ | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | 2022.11.04 |  | Python |
+| ⛔ | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | 2025.05.25 | Divide & Conquer | Python |
 | ✅ | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 2025.04.24 | Stack | Python |
 | ✅ | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 2023.08.17 |  | Python |
 | ✅ | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | 2025.04.23 | Stack | Python |
