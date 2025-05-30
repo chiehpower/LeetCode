@@ -51,15 +51,17 @@ class Solution:
         """
         Runtime: 23 ms, faster than 41.73% of Python3 online submissions for Reverse Linked List.
         Memory Usage: 15.27 MB, less than 57.38% of Python3 online submissions for Reverse Linked List.
+        
+        2025/05/30 
         """
         
         prev = None
         current = head
 
         while current is not None:
-            next_node = current.next
-            current.next = prev 
-            prev = current
-            current = next_node
+            next_node = current.next # 暫存下一個節點
+            current.next = prev # 把當前節點指回前一個 → ★反轉的核心
+            prev = current # 移動 prev 指向 curr（下次使用）
+            current = next_node # 移動 curr 繼續走
         return prev
         

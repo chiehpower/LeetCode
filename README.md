@@ -65,7 +65,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔✅ | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | 2025.05.15 | Graph General | Python |
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | 2025.04.04 |  | Python |
-| ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19 |  | Python |
+| ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19/2023.08.24/2025.05.30 |  | Python |
 | ⛔ | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 2025.04.06/2025.04.07 |  | Python |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 |  | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 |  | Python |
