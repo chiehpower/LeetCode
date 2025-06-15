@@ -38,3 +38,18 @@ class Solution:
             else:
                 return min_values
             min_v += 1
+
+            if x == 0:
+            return 0
+
+    def mySqrt_20250615(self, x: int) -> int:
+        max_value = 1
+        current = 1
+        while current <= x:
+            current_value = current * current
+            if current_value <= x:
+                max_value = current
+            else:
+                break
+            current += 1
+        return max_value
