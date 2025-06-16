@@ -40,7 +40,7 @@ class Solution(object):
         for i in range(n- 1):
             
             temp = one
-            one = one + two
+            one = one + two # F(n) = F(n-1) + F(n-2)
             two = temp
 
         return one
