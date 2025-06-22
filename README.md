@@ -42,6 +42,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | 2025.04.05/2025.04.06 |  | Python |
 | ⛔✅ | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 2025.06.06 | Binary Search | Python |
 | ✅ | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | 2025.03.26 |  | Python |
+| ✅ | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 2025.06.22 | | Python |
 | ✅ | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | 2022.10.19 |  | Python |
 | ⛔ | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | 2025.04.25 | Binary Tree General | Python |
 | ⛔✅ | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 2025.05.26-28/06.01 | Binary Tree BFS | Python |
