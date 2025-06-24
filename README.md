@@ -31,6 +31,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2025.04.05 |  | Python |
 | ⛔✅ | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | 2025.04.18/2025.04.19/2025.06.13 | Math | Python |
 | ✅ | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | 2022.10.03/2025.06.07 | Kadane's Algorithm | Python |
+| ⛔ | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | 2025.06.24 | Matrix | Python |
 | ✅ | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | 2025.05.13 | Array / String | Python |
 | ✅ | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 2021.12.25 |  | Python |
 | ✅ | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | 2025.04.26 | Intervals | Python |
