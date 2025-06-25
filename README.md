@@ -16,6 +16,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 2025.06.20 | | Python |
 | ✅ | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 2022.05.16/2025.05.16 |  | Go/Python |
 | ⛔✅ | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Easy | 2022.10.02/2023.08.25/2025.05.17 |  | Python |
+| ⛔✅ | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | 2025.06.25 | Array / String | Python |
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 2022.05.17/2025.05.18 |  | Go/Python |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18/2025.05.19 |  | Python / Go |
 |  | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium |  |  |  |
