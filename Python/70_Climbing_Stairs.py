@@ -45,6 +45,21 @@ class Solution(object):
 
         return one
 
+    def climbStairs_20250630(self, n):
+        """
+        Runtime: 0 ms, faster than 100.00% of Python3 online submissions for Summary Ranges.
+        Memory Usage: 17.63 MB, less than 21.82% of Python3 online submissions for Summary Ranges.
+        """
+        zero, one = 1, 1
+        if n == 1:
+            return one
+        for i in range(1, n):
+            new = zero + one
+            zero = one
+            one = new
+        return new
+
+
 Solution = Solution()
 
 inputs = 2

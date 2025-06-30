@@ -40,7 +40,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | 2025.04.20 | Math | Python |
 | ✅ | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | 2025.04.12/2025.04.13/2025.04.14 |  | Python |
 | ✅ | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | 2025.04.17/2025.06.15 | Math | Python |
-| ✅ | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy | 2023.03.27/2025.06.04/2025.06.16 | DP | Python |
+| ✅ | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy | 2023.03.27/2025.06.04/2025.06.16/2025.06.30 | DP | Python |
 | ✅ | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | 2025.04.05/2025.04.06 |  | Python |
 | ⛔✅ | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 2025.06.06 | Binary Search | Python |
 | ✅ | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | 2025.03.26 |  | Python |
