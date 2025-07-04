@@ -33,6 +33,10 @@ nums is sorted in a strictly increasing order.
 #         self.right = right
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
+        """
+        Runtime: 5 ms, faster than 8.42% of Python3 online submissions for Summary Ranges.
+        Memory Usage: 18.97 MB, less than 24.64% of Python3 online submissions for Summary Ranges.
+        """
         if not nums:
             return None
 
