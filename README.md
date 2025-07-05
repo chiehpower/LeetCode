@@ -20,7 +20,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 2022.05.17/2025.05.18 |  | Go/Python |
 | ✅ | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 2022.05.18/2025.05.19 |  | Python / Go |
 |  | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium |  |  |  |
-| ❌ | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 2025.07.02-03 | Backtracking | Python |
+| ⛔✅ | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 2025.07.02-03,05 | Backtracking | Python |
 | ✅ | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 2025.04.05 |  | Python |
 | ✅⛔ | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 2022.11.09/2025.05.04-07/2025.07.01 | Linked List | Python |
 | ✅ | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 2025.04.05 |  | Python |
