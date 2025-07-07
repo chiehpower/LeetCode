@@ -67,6 +67,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | 2025.03.29 |  | Python |
 | ✅ | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 2025.04.20 | Array / String | Python |
 | ✅ | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | 2025.04.30 | Math / String | Python |
+| ⛔ | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | 2025.07.07 | Database | SQL |
 | ⛔✅ | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | 2025.05.11 | Array / String | Python |
 | ✅ | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | 2025.04.28 | Bit Manipulation | Python |
 | ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 |  | Python |
