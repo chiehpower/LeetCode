@@ -73,6 +73,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | 2025.07.10 | Database | SQL |
 | ⛔✅ | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | 2025.05.11 | Array / String | Python |
 | ✅ | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | 2025.04.28 | Bit Manipulation | Python |
+| ⛔ | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | 2025.07.12 | Database | SQL |
 | ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 |  | Python |
 | ⛔✅ | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | 2025.05.15 | Graph General | Python |
 | ⛔✅ | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | 2025.06.28 | Bit Manipulation | Python |
