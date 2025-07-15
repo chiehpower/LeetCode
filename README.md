@@ -107,8 +107,9 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 |  | Python |
 | ✅ | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | 2025.04.27 | Intervals | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 |  | Python |
-| ✅⛔ | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | 2025.07.14 | Database | Python |
+| ✅⛔ | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | 2025.07.14 | Database | SQL |
 | ⛔ | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 2025.04.09/2025.04.10/2025.06.10 |  | Python |
+| ✅ | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | 2025.07.15 | Database | SQL |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 |  | Python |
 | ✅ | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 2025.04.08/2025.04.09/2025.06.11 |  | Python |
 | ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 |  | Python |
