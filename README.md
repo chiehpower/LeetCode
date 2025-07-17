@@ -111,6 +111,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 2025.04.09/2025.04.10/2025.06.10 |  | Python |
 | ✅ | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | 2025.07.15 | Database | SQL |
 | ✅ | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | 2025.07.16 | Database | SQL |
+| ✅⛔ | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | 2025.07.17 | Database | SQL |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 |  | Python |
 | ✅ | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 2025.04.08/2025.04.09/2025.06.11 |  | Python |
 | ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 |  | Python |
