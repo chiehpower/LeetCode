@@ -115,6 +115,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [595. Big Countries](https://leetcode.com/problems/big-countries/) | Easy | 2025.07.18 | Database | SQL |
 | ✅ | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | 2025.07.19 | Database | SQL |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 |  | Python |
+| ✅⛔ | [607. Sales Person](https://leetcode.com/problems/sales-person/) | Easy | 2025.07.20 | Database | SQL |
 | ✅ | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 2025.04.08/2025.04.09/2025.06.11 |  | Python |
 | ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 |  | Python |
 | ⛔ | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 2023.09.05 |  | Python |
