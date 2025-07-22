@@ -68,6 +68,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 2025.04.20 | Array / String | Python |
 | ✅ | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | 2025.04.30 | Math / String | Python |
 | ⛔ | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | 2025.07.07 | Database | SQL |
+| ⛔✅ | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | 2025.07.22 | Database | SQL |
 | ⛔ | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | 2025.07.08 | Database | SQL |
 | ✅ | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | 2025.07.09 | Database | SQL |
 | ⛔ | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | 2025.07.10 | Database | SQL |
@@ -116,7 +117,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | 2025.07.19 | Database | SQL |
 | ✅ | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | 2023.08.15 |  | Python |
 | ✅⛔ | [607. Sales Person](https://leetcode.com/problems/sales-person/) | Easy | 2025.07.20 | Database | SQL |
-| ✅⛔ | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | 2025.07.21 | Database | SQL |
+| ✅⛔ | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | 2025.07.21/07.22 | Database | SQL |
 | ✅ | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 2025.04.08/2025.04.09/2025.06.11 |  | Python |
 | ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 |  | Python |
 | ⛔ | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 2023.09.05 |  | Python |
