@@ -70,6 +70,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | 2025.07.07 | Database | SQL |
 | ⛔✅ | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | 2025.07.22 | Database | SQL |
 | ⛔✅ | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | 2025.07.23 | Database | SQL |
+| ⛔✅ | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | 2025.07.24 | Database | SQL |
 | ⛔ | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | 2025.07.08 | Database | SQL |
 | ✅ | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | 2025.07.09 | Database | SQL |
 | ⛔ | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | 2025.07.10 | Database | SQL |
