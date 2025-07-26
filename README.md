@@ -134,6 +134,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 2021.12.27 |  | Python |
 | ⛔ | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 2023.09.13 |  | Python |
 | ✅            | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy           | 2023.08.14            |             | Python      |
+| ✅ | [1114. Print in Order](https://leetcode.com/problems/print-in-order/) | Easy | 2025.07.26 | | Python |
 | ⛔ | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 2023.09.03 |  | Python |
 | ✅ | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 2023.08.22 |  | Python |
 | ✅ | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 2023.08.15 |  | Python |
