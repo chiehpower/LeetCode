@@ -109,6 +109,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | 2025.05.01 | |  |
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 |  | Python |
 | ✅ | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | 2025.04.27 | Intervals | Python |
+| ✅⛔ | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | 2025.07.27 | Greedy | Python |
 | ✅ | [476._Number Complement](https://leetcode.com/problems/number-complement/) | Easy | 2021.12.27 |  | Python |
 | ✅⛔ | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | 2025.07.14 | Database | SQL |
 | ⛔ | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 2025.04.09/2025.04.10/2025.06.10 |  | Python |
