@@ -147,6 +147,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | 2023.09.07 |  | Python |
 | ✅ | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 2023.08.20 |  | Python |
 | ✅ | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 2023.06.12 |  | Python |
+| ✅ | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | 2025.08.03 | | Python |
 | ⛔✅ | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 2025.06.01 | Linked List | Python |
 | ✅ | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | 2023.08.22 |  | Python |
 | ⛔ | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | 2025.05.03 | |  |
