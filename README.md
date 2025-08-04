@@ -81,6 +81,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | 2025.07.12 | Database | SQL |
 | ⛔✅ | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | 2025.07.13 | Database | SQL |
 | ⛔ | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | 2023.09.16 |  | Python |
+| ⛔✅ | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 2025.08.04 | Binary Tree - BFS | Python |
 | ⛔✅ | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | 2025.05.15 | Graph General | Python |
 | ⛔✅ | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | 2025.06.28 | Bit Manipulation | Python |
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 |  | Python |
