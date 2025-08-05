@@ -50,3 +50,16 @@ class Solution:
         dfs(root1, leaf1)
         dfs(root2, leaf2)
         return leaf1 == leaf2
+
+
+    def leafSimilar_20250805(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
+        
+        def check(node):
+            if not node:
+                return []
+            if not node.left and not node.right:
+                return [node.val]
+            
+            return check(node.left) + check(node.right)
+        
+        return False if check(root1) != check(root2) else True
