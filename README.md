@@ -97,6 +97,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | 2025.04.02 |  | Python |
 | ✅ | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2022.10.10/2023.09.08 |  | Python |
 | ✅ | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 2022.11.02 |  | Python |
+| ✅ | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | 2025.08.06 | | Python |
 | 🟰 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | 2025.04.29 | Array / String | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 |  | Python |
 | ✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01 |  | Python |
