@@ -114,7 +114,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 2023.08.23 |  | Python |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 |  | Python |
 | ✅ | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 2021.12.27 |  | Python |
-| ⛔ | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 2023.09.13 |  | Python |
+| ⛔✅ | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 2023.09.13/2025.08.09 |  | Python |
 | ✅            | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy           | 2023.08.14            |             | Python      |
 | ⛔ | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 2023.09.03 |  | Python |
 | ✅ | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 2023.08.22 |  | Python |

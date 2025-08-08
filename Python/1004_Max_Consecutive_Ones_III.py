@@ -48,3 +48,21 @@ class Solution(object):
             new_size = r - l + 1
             ans = max(ans, new_size)
         return ans
+
+    def longestOnes_20250809(self, nums: List[int], k: int) -> int:
+        l = 0
+        max_len = 0
+        zeros = 0
+
+        for i in range(len(nums)):
+            if nums[i] == 0:
+                zeros += 1
+        
+            while zeros > k:
+                if nums[l] == 0:
+                    zeros -= 1
+                l += 1
+
+            max_len = max(max_len, i - l + 1 )
+        return max_len
+            
