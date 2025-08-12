@@ -86,7 +86,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔✅ | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | 2025.06.28 | Bit Manipulation | Python |
 | ✅ | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | 2025.04.05 |  | Python |
 | ✅ | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | 2025.04.04 |  | Python |
-| ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19/2023.08.24/2025.05.30-06.01 |  | Python |
+| ✅ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | 2022.10.19/2023.08.24/2025.05.30-06.01/2025.08.12 |  | Python |
 | ⛔ | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 2025.04.06/2025.04.07/2025.06.02-03 |  | Python |
 | ✅ | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 2023.08.31 |  | Python |
 | ✅ | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2022.09.30/2023.08.24 |  | Python |

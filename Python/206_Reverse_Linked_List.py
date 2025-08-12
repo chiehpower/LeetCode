@@ -64,4 +64,18 @@ class Solution:
             prev = current # 移動 prev 指向 curr（下次使用）
             current = next_node # 移動 curr 繼續走
         return prev
-        
+
+    def reverseList20250812(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head or not head.next:
+            return head
+        record = []
+        while head:
+            record.append(head.val)
+            head = head.next
+        record.reverse()
+        root = ListNode()
+        pointer = root
+        for i in record:
+            pointer.next = ListNode(i)
+            pointer = pointer.next
+        return root.next
