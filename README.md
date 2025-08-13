@@ -149,7 +149,7 @@ This repository is used for recording my LeetCode challenges.
 | ❌ | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | 2023.09.19 |  | Python |
 | ✅ | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | 2023.09.01 |  | Python |
 | ✅ | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | 2023.09.07 |  | Python |
-| ✅ | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 2023.08.20 |  | Python |
+| ✅ | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 2023.08.20/2025.08.13 |  | Python |
 | ✅ | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 2023.06.12 |  | Python |
 | ✅ | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | 2025.08.03 | | Python |
 | ⛔✅ | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 2025.06.01 | Linked List | Python |

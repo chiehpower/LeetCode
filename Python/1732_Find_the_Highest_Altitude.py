@@ -33,6 +33,14 @@ class Solution(object):
 
         return max(record)
 
+    def largestAltitude_20250813(self, gain: List[int]) -> int:
+        highest = []
+        curr = 0
+        for i in gain:
+            curr += i
+            highest.append(curr)
+        return max(highest) if max(highest) >= 0 else 0
+
 
 if __name__ == "__main__":
     
