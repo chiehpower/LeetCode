@@ -70,6 +70,46 @@ class Solution(object):
                     sum_left += nums[i]
         return -1
 
+    def pivotIndex_20250814(self, nums: List[int]) -> int:
+        # 計算陣列總和
+        total = sum(nums)
+        length = len(nums)
+        # 用來記錄從左到右累積的總和（不包含目前 index 的值）
+        check = []
+
+        # 特殊情況：只有一個元素，必然是 pivot index
+        if length == 1:
+            return 0
+
+        # 逐一檢查每個 index
+        for i, value in enumerate(nums):
+            if i == 0:
+                # 如果是第一個元素，檢查右邊總和是否為 0
+                if (total - value) == 0:
+                    return i
+                else:
+                    # 累積左側總和
+                    check.append(value)
+            elif i == (length - 1):
+                # 如果是最後一個元素，檢查左側總和是否為 0
+                if (total - value) == 0:
+                    return i
+                else:
+                    return -1
+            else:
+                # 計算剩餘的總和（扣掉目前值）
+                remain = total - value
+                # 右側總和 = 剩餘總和 - 左側總和
+                right = remain - check[i-1]
+                # 若左右總和相等，回傳目前 index
+                if right == check[i-1]:
+                    return i
+                else:
+                    # 更新左側累積總和
+                    check.append(check[i-1] + value)
+        # 如果都沒有符合條件，回傳 -1
+        return -1
+
 
 if __name__ == "__main__":
     
