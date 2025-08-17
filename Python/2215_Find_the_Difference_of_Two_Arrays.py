@@ -53,6 +53,23 @@ class Solution(object):
 
         return [set(a1), set(a2)]
 
+    def findDifference_20250817(self, nums1: List[int], nums2: List[int]) -> List[List[int]]:
+        uni_1 = sorted(set(nums1))
+        uni_2 = sorted(set(nums2))
+
+        result_1 = [x for x in uni_1 if x not in uni_2]
+        result_2 = [x for x in uni_2 if x not in uni_1]
+
+        new_nums1 = []
+        for i in nums1:
+            if i in result_1 and i not in new_nums1:
+                new_nums1.append(i)
+        new_nums2 = []
+        for j in nums2:
+            if j in result_2 and j not in new_nums2:
+                new_nums2.append(j)
+        return [new_nums1, new_nums2]
+
 
 if __name__ == "__main__":
     
