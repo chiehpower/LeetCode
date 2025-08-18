@@ -143,7 +143,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅            | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy           | 2023.08.14            |             | Python      |
 | ✅ | [1114. Print in Order](https://leetcode.com/problems/print-in-order/) | Easy | 2025.07.26 | | Python |
 | ⛔ | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 2023.09.03 |  | Python |
-| ✅ | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 2023.08.22 |  | Python |
+| ✅ | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 2023.08.22/2025.08.18 | Hash Map / Set | Python |
 | ✅ | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 2023.08.15 |  | Python |
 | ⛔ | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | 2025.08.16 | Binary Tree - DFS | Python |
 | ❌ | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | 2023.09.02 |  | Python |

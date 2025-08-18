@@ -54,6 +54,18 @@ class Solution(object):
         else:
             return True
 
+    def uniqueOccurrences_20250818(self, arr: List[int]) -> bool:
+        seen = {}
+
+        for i in arr:
+            if i not in seen:
+                seen[i] = 1
+            else:
+                seen[i] += 1
+        all_values = [seen[i] for i in seen]
+        check = True if len(all_values) == len(list(set(all_values))) else False
+        return check
+
 if __name__ == "__main__":
     
     Solution = Solution()
