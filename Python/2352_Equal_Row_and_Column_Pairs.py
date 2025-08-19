@@ -62,3 +62,27 @@ class Solution(object):
                 max_value += i
 
         return max_value
+
+    def equalPairs_20250819(self, grid: List[List[int]]) -> int:
+        total = len(grid)
+        count = 0
+        row_number = {}
+        for i in range(total):
+            num = tuple()
+            for j in grid[i]:
+                num = tuple(list(num)+[j])
+            if num not in row_number:
+                row_number[num] = 1
+            else:
+                row_number[num] += 1
+
+        for i in range(total):
+            c_num = tuple()
+            for c in range(total):
+                c_num = tuple(list(c_num)+[grid[c][i]])
+            if c_num not in row_number:
+                pass
+            else:
+                count += row_number[c_num]
+
+        return count
