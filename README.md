@@ -112,6 +112,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | 2025.04.03 |  | Python |
 | ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 |  | Python |
 | ⛔ | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | 2025.05.01 | |  |
+| ✅⛔ | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | 2025.08.21 | Intervals | Python |
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 |  | Python |
 | ✅ | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | 2025.04.27 | Intervals | Python |
 | ✅⛔ | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | 2025.07.27 | Greedy | Python |
