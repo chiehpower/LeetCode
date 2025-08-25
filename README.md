@@ -108,7 +108,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | 2023.09.09 |  | Python |
 | ✅ | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 2022.11.10 |  | Python |
 | ✅ | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 2023.08.16 |  | Python |
-| ✅ | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 2023.08.29 |  | Python |
+| ✅ | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 2023.08.29/2025.08.25 | Binary Search | Python |
 | ✅ | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 2025.06.17/2025.06.18 | Array / String | Python |
 | ✅ | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | 2025.04.03 |  | Python |
 | ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 |  | Python |

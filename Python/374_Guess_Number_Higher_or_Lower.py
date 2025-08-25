@@ -65,4 +65,15 @@ class Solution(object):
                 left = start + 1
             else:
                 return start
-        
+
+    def guessNumber_20250825(self, n: int) -> int:
+        left, right = 0, n 
+        while left <= right:
+            mid = (left + right) // 2
+            res = guess(mid)
+            if res == -1:
+                right = mid - 1 
+            elif res == 0:
+                return mid
+            else:
+                left = mid + 1
