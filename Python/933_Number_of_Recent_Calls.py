@@ -48,8 +48,14 @@ class RecentCounter:
         return len(self.p)
 
     def ping_20250810(self, t: int) -> int:
-        self.q.append(t)
-        while t - self.q[0] > 3000:
-            if (t - self.q[0]) > 3000:
-                self.q.popleft()
-        return len(self.q)
+        self.p.append(t)
+        while t - self.p[0] > 3000:
+            if (t - self.p[0]) > 3000:
+                self.p.popleft()
+        return len(self.p)
+
+    def ping_20250827(self, t: int) -> int:
+        self.p.append(t)
+        while (t - self.p[0]) > 3000:
+            self.p.popleft()
+        return len(self.p)

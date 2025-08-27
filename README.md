@@ -141,7 +141,7 @@ This repository is used for recording my LeetCode challenges.
 | ⛔ | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 2025.08.26 | Binary Search | Python |
 | ✅⛔ | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | 2025.08.24 | Monotonic Stack | Python |
 | ✅⛔ | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 2025.06.08-09 | Kadane's Algorithm | Python |
-| ✅⛔ | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 2023.08.23/2025.08.10 | Queue | Python |
+| ✅ | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 2023.08.23/2025.08.10/2025.08.27 | Queue | Python |
 | ✅ | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 2021.12.26 |  | Python |
 | ✅ | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 2021.12.27 |  | Python |
 | ⛔✅ | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 2023.09.13/2025.08.09 |  | Python |
