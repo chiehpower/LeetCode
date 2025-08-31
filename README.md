@@ -148,6 +148,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅            | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy           | 2023.08.14            |             | Python      |
 | ✅ | [1114. Print in Order](https://leetcode.com/problems/print-in-order/) | Easy | 2025.07.26 | | Python |
 | ⛔ | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 2023.09.03 |  | Python |
+| ⛔✅ | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | 2025.08.31 | Binary Tree - BFS | Python |
 | ✅ | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 2023.08.22/2025.08.18 | Hash Map / Set | Python |
 | ✅⛔ | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | 2025.08.23 | Trie | Python |
 | ✅ | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 2023.08.15 |  | Python |
