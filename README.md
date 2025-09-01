@@ -101,7 +101,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | 2025.08.06 | | Python |
 | 🟰 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | 2025.04.29 | Array / String | Python |
 | ✅ | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Medium | 2021.12.26 |  | Python |
-| ✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01 |  | Python |
+| ⛔✅ | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2023.07.01/2025.09.02 | Two Pointers | Python |
 | ✅ | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | 2025.04.04 |  | Python |
 | ⛔✅ | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | 2025.08.11 | Linked List | Python |
 | ⛔ | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | 2023.09.07 |  | Python |

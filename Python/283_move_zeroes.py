@@ -46,3 +46,14 @@ class Solution(object):
             nums.append(0)
         
         return nums
+    def moveZeroes_20250902(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        lastNonZeroValue = 0
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[lastNonZeroValue] = nums[i]
+                lastNonZeroValue += 1
+        for i in range(lastNonZeroValue, len(nums)):
+            nums[i] = 0
