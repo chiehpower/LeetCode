@@ -111,7 +111,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅ | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 2023.08.29/2025.08.25 | Binary Search | Python |
 | ✅ | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 2025.06.17/2025.06.18 | Array / String | Python |
 | ✅ | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | 2025.04.03 |  | Python |
-| ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17 |  | Python |
+| ✅ | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | 2023.08.17/2025.09.02 | Two Pointers | Python |
 | ⛔ | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | 2025.05.01 | |  |
 | ✅⛔ | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | 2025.08.21 | Intervals | Python |
 | ⛔ | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | 2023.08.20 |  | Python |

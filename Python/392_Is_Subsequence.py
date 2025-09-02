@@ -59,6 +59,23 @@ class Solution:
         if c < (s_total-1):
             return False 
 
+    def isSubsequence_20250902(self, s: str, t: str) -> bool:
+        
+        for i in t:
+            if len(s) > 0:
+                compare = s[0]
+            else:
+                return True
+            if i == compare:
+                if len(s) > 1:
+                    s = s[1:]
+                else:
+                    s = ""
+        if len(s) > 0:
+            return False
+        else:
+            return True
+            
 
 if __name__ == "__main__":
     
