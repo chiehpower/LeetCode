@@ -129,7 +129,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅⛔ | [607. Sales Person](https://leetcode.com/problems/sales-person/) | Easy | 2025.07.20 | Database | SQL |
 | ✅⛔ | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | 2025.07.21/07.22 | Database | SQL |
 | ✅ | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 2025.04.08/2025.04.09/2025.06.11 |  | Python |
-| ⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19 |  | Python |
+| ✅⛔ | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 2023.08.19/2025.09.03 | Sliding Window | Python |
 | ✅⛔ | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | 2025.08.09 | Queue | Python |
 | ⛔ | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 2023.09.05 |  | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 |  | Python |

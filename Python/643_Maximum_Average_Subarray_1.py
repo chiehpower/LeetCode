@@ -62,6 +62,15 @@ class Solution:
 
         return float(maximum) / k
 
+    def findMaxAverage_20250903(self, nums: List[int], k: int) -> float:
+        sumList = [sum(nums[0:k])]
+        num = 0
+        for i in range(k, len(nums)):
+            count = sumList[-1] - nums[num] + nums[i] 
+            sumList.append(count)
+            num += 1
+        maxValue = max(sumList)
+        return  maxValue / k
 
 
 if __name__ == "__main__":
