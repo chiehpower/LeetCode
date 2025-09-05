@@ -41,6 +41,13 @@ class Solution(object):
             highest.append(curr)
         return max(highest) if max(highest) >= 0 else 0
 
+    def largestAltitude_20250905(self, gain: List[int]) -> int:
+        max_value = 0
+        current = 0
+        for i in gain:
+            current += i
+            max_value = max(max_value, current)
+        return max_value
 
 if __name__ == "__main__":
     
