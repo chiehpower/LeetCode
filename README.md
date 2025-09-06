@@ -133,7 +133,7 @@ This repository is used for recording my LeetCode challenges.
 | ✅⛔ | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | 2025.08.09 | Queue | Python |
 | ⛔ | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 2023.09.05 |  | Python |
 | ✅ | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Medium | 2021.12.26 |  | Python |
-| ✅ | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | 2023.08.22/2025.08.14 | Prefix Sum | Python |
+| ✅ | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | 2023.08.22/2025.08.14/2025.09.07 | Prefix Sum | Python |
 | ✅ | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | 2023.08.27 |  | Python |
 | ✅⛔ | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | 2025.08.22 | Monotonic Stack | Python |
 | ⛔ | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 2023.09.04 |  | Python |

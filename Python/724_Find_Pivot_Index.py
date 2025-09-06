@@ -110,6 +110,29 @@ class Solution(object):
         # 如果都沒有符合條件，回傳 -1
         return -1
 
+    def pivotIndex_20250907(self, nums: List[int]) -> int:
+        if len(nums) == 1:
+            return 0
+        total = sum(nums)
+        prev = 0
+        for i in range(len(nums)):
+            if i == 0:
+                right = total - nums[i]
+                if right == 0:
+                    return 0
+                else:
+                    prev = nums[i]
+            elif i == (len(nums) -1):
+                if prev == 0:
+                    return i
+                else: 
+                    return -1
+            else:
+                right = total - prev - nums[i]
+                if right == prev:
+                    return i
+                else:
+                    prev += nums[i]
 
 if __name__ == "__main__":
     
